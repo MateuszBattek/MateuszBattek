@@ -1,4 +1,17 @@
-### Hi there 👋
+# Hi there 👋  My name is Mateusz
+I'm currently working on Charades Online game using React + TailwindCSS
+
+## Contact
+E-mail: mateuszbattek@gmail.com
+
+## Useful links
+- [BitPictures](https://bitpictures.pl/)
+
+
+# The end
+Fun fact: I love **INTEGRALS**!
+
+
 
 <!--
 **MateuszBattek/MateuszBattek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
